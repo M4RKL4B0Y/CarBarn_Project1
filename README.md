@@ -1,5 +1,5 @@
-# CarBarn_Project1
+# BarnRun_Project1
 
-Car Barn
+Barn Run
 
-Objective: Must wash, fuel and position cars before collector arrives! 
+Objective: Must wrangle up all farm animals and direct to the barn before the sun goes down.
